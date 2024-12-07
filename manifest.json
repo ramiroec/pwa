@@ -1,0 +1,22 @@
+{
+    "name": "Mi PWA - Producto",
+    "short_name": "PWA Producto",
+    "description": "Un ejemplo básico de PWA mostrando un producto desde una API.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007BFF",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
